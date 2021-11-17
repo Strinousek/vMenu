@@ -3,7 +3,7 @@
 ## This resource is NOT an actual vMenu.
 ## This resource is used to get Kvp from vMenu.
 
-> **() Important to read:**
+> **If you want to work on your own:**
 > [Storage Manager](https://github.com/TomGrobbe/vMenu/blob/e8f4e1c6e17c78e5103c41ccfd269ccf77ba652e/vMenu/StorageManager.cs)
 > [MpPedCustomization](https://github.com/TomGrobbe/vMenu/blob/e8f4e1c6e17c78e5103c41ccfd269ccf77ba652e/vMenu/menus/MpPedCustomization.cs)
 > [PlayerAppearance](https://github.com/TomGrobbe/vMenu/blob/e8f4e1c6e17c78e5103c41ccfd269ccf77ba652e/vMenu/menus/PlayerAppearance.cs)
