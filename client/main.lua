@@ -11,7 +11,7 @@ getStoredPeds = function(freemode)
         if(not pedId or pedId == "") then
             break
         end
-        savedPeds[pedId] = GetResourceKvpString(pedId)
+        savedPeds[pedId] = json.decode(GetResourceKvpString(pedId))
     end
     return savedPeds
 end
